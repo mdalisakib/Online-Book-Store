@@ -7,7 +7,7 @@ function Course() {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get("/book");
+        const res = await axios.get("https://online-book-store-2-hrs8.onrender.com");
         console.log(res.data);
         setBook(res.data);
       } catch (error) {
