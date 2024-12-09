@@ -11,9 +11,15 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            🌟 Discover Your Next Adventure at [Book Haven]! 🌟
+
+Step into a world where stories come alive, and knowledge knows no bounds. At [Book Haven], we bring the joy of reading to your fingertips. With a vast collection of books across genres, seamless navigation, and doorstep delivery, your next favorite book is just a click away.
+
+Whether you're a lover of fiction, a seeker of knowledge, or simply exploring new worlds, [Book Haven] is here to make your reading journey unforgettable.
+
+Find it. Love it. Read it. Welcome to [Book Haven]—where every book is a new beginning. 📚✨
+
+
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg

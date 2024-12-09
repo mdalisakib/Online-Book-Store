@@ -64,9 +64,12 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
-            corporis nulla non suscipit, iure neque earum?
+          Why Choose Us?
+
+Vast Collection: Explore an extensive catalog featuring fiction, non-fiction, academic texts, children's books, and more.
+User-Friendly Experience: Our intuitive platform makes browsing, discovering, and purchasing books a seamless journey.
+Affordable Pricing: Enjoy competitive prices, exclusive discounts, and deals across all categories.
+Convenience: Get your favorite reads delivered to your doorstep, hassle-free.
           </p>
         </div>
 
